@@ -1,0 +1,1387 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{amazonEC2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Amazon EC2 Documentation}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/ec2/
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/ec2/
+      \endverb
+    \endentry
+    \entry{amazonRDS}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Amazon RDS Documentation}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/rds/
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/rds/
+      \endverb
+    \endentry
+    \entry{amazonS3}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Amazon S3 Documentation}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/s3/
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/s3/
+      \endverb
+    \endentry
+    \entry{awsDatacenters}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS Data Centers}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/compliance/data-center/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/compliance/data-center/
+      \endverb
+    \endentry
+    \entry{awsInfrastructure}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS Global Infrastructure}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/about-aws/global-infrastructure/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/about-aws/global-infrastructure/
+      \endverb
+    \endentry
+    \entry{amazonLambda}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS Lambda Documentation}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/lambda/
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/lambda/
+      \endverb
+    \endentry
+    \entry{awsNitro}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS Nitro System}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/ec2/nitro/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/ec2/nitro/
+      \endverb
+    \endentry
+    \entry{awsSustainability}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS Sustainability}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/sustainability/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/sustainability/
+      \endverb
+    \endentry
+    \entry{awsShared}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Shared Responsibility Model}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/compliance/shared-responsibility-model/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/compliance/shared-responsibility-model/
+      \endverb
+    \endentry
+    \entry{awsWhatIs}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{10}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{10}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is cloud computing?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/what-is-cloud-computing/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/what-is-cloud-computing/
+      \endverb
+    \endentry
+    \entry{armbrust2010}{article}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=8eafad8289b06f72c2e8b7caf80a413a}{%
+           family={Armbrust},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c5b94cecebf3f40a6ad1bfde24c6dd5}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Armando},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0687da4465846445b36b7800c1bb8038}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={Rean},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aeb54aa0c3d97e1b5901682fd058a86e}{%
+           family={Joseph},
+           familyi={J\bibinitperiod},
+           given={Anthony\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97c841afbd6b1980e626582e11cd5c08}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Randy},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a146737a08c92a0e901d58d45cdca770}{%
+           family={Konwinski},
+           familyi={K\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be4e9543923533735a6b6ab0d3071b46}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Gunho},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64f58317379ddd1a24e0e6cba85ae78c}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fb6cc742d611dd7706e52380e50cd4d}{%
+           family={Rabkin},
+           familyi={R\bibinitperiod},
+           given={Ariel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51d9ef26181e2e8a9dc546b401e0bb26}{%
+           family={Stoica},
+           familyi={S\bibinitperiod},
+           given={Ion},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00dc518b94dfa6349c86e70661a1a5ef}{%
+           family={Zaharia},
+           familyi={Z\bibinitperiod},
+           given={Matei},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1bae7c2a3fe6ea29ffc01edd0ac606b5}
+      \strng{fullhash}{212f4d64d44279104b9d929e461f4ac5}
+      \strng{fullhashraw}{212f4d64d44279104b9d929e461f4ac5}
+      \strng{bibnamehash}{212f4d64d44279104b9d929e461f4ac5}
+      \strng{authorbibnamehash}{212f4d64d44279104b9d929e461f4ac5}
+      \strng{authornamehash}{1bae7c2a3fe6ea29ffc01edd0ac606b5}
+      \strng{authorfullhash}{212f4d64d44279104b9d929e461f4ac5}
+      \strng{authorfullhashraw}{212f4d64d44279104b9d929e461f4ac5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{4}
+      \field{title}{A view of the cloud computing}
+      \field{volume}{53}
+      \field{year}{2010}
+      \field{pages}{50\bibrangedash 58}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/1721654.1721672
+      \endverb
+    \endentry
+    \entry{buyya2009}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=029e03ba4e08a5605b31a31f86375741}{%
+           family={Buyya},
+           familyi={B\bibinitperiod},
+           given={Rajkumar},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c1291e6ecf0dbfe473a835854099336}{%
+           family={Yeo},
+           familyi={Y\bibinitperiod},
+           given={Chee\bibnamedelima Shin},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11593173de8f0ecb4f1c61df36d7c740}{%
+           family={Venugopal},
+           familyi={V\bibinitperiod},
+           given={Srikumar},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ce80a9c0a94f2aca1f4a2ca356a02f5}{%
+           family={Broberg},
+           familyi={B\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67cc0d4f860e166f2f7d44ae53c8808c}{%
+           family={Brandic},
+           familyi={B\bibinitperiod},
+           given={Ivona},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72ad1e8af9140101e7db77764a1b7c8a}
+      \strng{fullhash}{340bffd9ee767943455ff7faaa506dae}
+      \strng{fullhashraw}{340bffd9ee767943455ff7faaa506dae}
+      \strng{bibnamehash}{340bffd9ee767943455ff7faaa506dae}
+      \strng{authorbibnamehash}{340bffd9ee767943455ff7faaa506dae}
+      \strng{authornamehash}{72ad1e8af9140101e7db77764a1b7c8a}
+      \strng{authorfullhash}{340bffd9ee767943455ff7faaa506dae}
+      \strng{authorfullhashraw}{340bffd9ee767943455ff7faaa506dae}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Future Generation Computer Systems}
+      \field{number}{6}
+      \field{title}{Cloud computing and emerging IT platforms: Vision, hype, and reality for delivering computing as the 5th utility}
+      \field{volume}{25}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{599\bibrangedash 616}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.future.2008.12.001
+      \endverb
+    \endentry
+    \entry{gartner2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18bfab6309a4addeb7e1dae07d2a4b89}{%
+           family={Gartner},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gartner Research}%
+      }
+      \strng{namehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{fullhash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{fullhashraw}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{bibnamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authorbibnamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authornamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authorfullhash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authorfullhashraw}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Magic Quadrant for Strategic Cloud Platform Services}
+      \field{year}{2024}
+    \endentry
+    \entry{mell2011}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=eac098e5805fbc204d757a7083c69ac6}{%
+           family={Mell},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f32f3f75de51838401f618755c8a6620}{%
+           family={Grance},
+           familyi={G\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {National Institute of Standards}%
+        {Technology}%
+      }
+      \strng{namehash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{fullhash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{fullhashraw}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{bibnamehash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{authorbibnamehash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{authornamehash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{authorfullhash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{authorfullhashraw}{d1f558bbc290d0967925307c14bc2d83}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{Special Publication 800-145}
+      \field{title}{The NIST definition of cloud computing}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.6028/NIST.SP.800-145
+      \endverb
+    \endentry
+    \entry{statista2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62182ca58a739daa8ddd8a48b7b19abb}{%
+           family={Statista},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Statista Research Department}%
+      }
+      \strng{namehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{fullhash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{fullhashraw}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{bibnamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authorbibnamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authornamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authorfullhash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authorfullhashraw}{62182ca58a739daa8ddd8a48b7b19abb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global cloud infrastructure platform market share Q4 2024}
+      \field{year}{2025}
+    \endentry
+    \entry{subashini2011}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2f7ea3a134ea7111f9afb5ce8beb8125}{%
+           family={Subashini},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cb1f9a1b246f1119fa6ac64ab457b7c}{%
+           family={Kavitha},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{fullhash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{fullhashraw}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{bibnamehash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{authorbibnamehash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{authornamehash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{authorfullhash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{authorfullhashraw}{5eb5c0c3af57cef3630c87abddc6e559}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Network and Computer Applications}
+      \field{number}{1}
+      \field{title}{A survey on security issues in service delivery models of cloud computing}
+      \field{volume}{34}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.jnca.2010.07.006
+      \endverb
+    \endentry
+    \entry{varia2014}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3747060bdded9b36a9027418cfb08c32}{%
+           family={Varia},
+           familyi={V\bibinitperiod},
+           given={Jinesh},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Amazon Web Services Whitepapers}%
+      }
+      \strng{namehash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{fullhash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{fullhashraw}{3747060bdded9b36a9027418cfb08c32}
+      \strng{bibnamehash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{authorbibnamehash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{authornamehash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{authorfullhash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{authorfullhashraw}{3747060bdded9b36a9027418cfb08c32}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Architecting for the cloud: AWS best practices}
+      \field{year}{2014}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{amazonEC2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Amazon EC2 Documentation}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/ec2/
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/ec2/
+      \endverb
+    \endentry
+    \entry{amazonRDS}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Amazon RDS Documentation}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/rds/
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/rds/
+      \endverb
+    \endentry
+    \entry{amazonS3}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Amazon S3 Documentation}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/s3/
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/s3/
+      \endverb
+    \endentry
+    \entry{awsDatacenters}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS Data Centers}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/compliance/data-center/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/compliance/data-center/
+      \endverb
+    \endentry
+    \entry{awsInfrastructure}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS Global Infrastructure}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/about-aws/global-infrastructure/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/about-aws/global-infrastructure/
+      \endverb
+    \endentry
+    \entry{amazonLambda}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS Lambda Documentation}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/lambda/
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/lambda/
+      \endverb
+    \endentry
+    \entry{awsNitro}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS Nitro System}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/ec2/nitro/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/ec2/nitro/
+      \endverb
+    \endentry
+    \entry{awsSustainability}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS Sustainability}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/sustainability/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/sustainability/
+      \endverb
+    \endentry
+    \entry{awsShared}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Shared Responsibility Model}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/compliance/shared-responsibility-model/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/compliance/shared-responsibility-model/
+      \endverb
+    \endentry
+    \entry{awsWhatIs}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
+           family={{Amazon Web Services}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{fullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \strng{authorfullhashraw}{3eb2c1a57a8160029f036e3dcbf84bf1}
+      \field{extraname}{10}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{10}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is cloud computing?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/what-is-cloud-computing/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/what-is-cloud-computing/
+      \endverb
+    \endentry
+    \entry{armbrust2010}{article}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=8eafad8289b06f72c2e8b7caf80a413a}{%
+           family={Armbrust},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c5b94cecebf3f40a6ad1bfde24c6dd5}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Armando},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0687da4465846445b36b7800c1bb8038}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={Rean},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aeb54aa0c3d97e1b5901682fd058a86e}{%
+           family={Joseph},
+           familyi={J\bibinitperiod},
+           given={Anthony\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97c841afbd6b1980e626582e11cd5c08}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Randy},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a146737a08c92a0e901d58d45cdca770}{%
+           family={Konwinski},
+           familyi={K\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be4e9543923533735a6b6ab0d3071b46}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Gunho},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64f58317379ddd1a24e0e6cba85ae78c}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fb6cc742d611dd7706e52380e50cd4d}{%
+           family={Rabkin},
+           familyi={R\bibinitperiod},
+           given={Ariel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51d9ef26181e2e8a9dc546b401e0bb26}{%
+           family={Stoica},
+           familyi={S\bibinitperiod},
+           given={Ion},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00dc518b94dfa6349c86e70661a1a5ef}{%
+           family={Zaharia},
+           familyi={Z\bibinitperiod},
+           given={Matei},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1bae7c2a3fe6ea29ffc01edd0ac606b5}
+      \strng{fullhash}{212f4d64d44279104b9d929e461f4ac5}
+      \strng{fullhashraw}{212f4d64d44279104b9d929e461f4ac5}
+      \strng{bibnamehash}{212f4d64d44279104b9d929e461f4ac5}
+      \strng{authorbibnamehash}{212f4d64d44279104b9d929e461f4ac5}
+      \strng{authornamehash}{1bae7c2a3fe6ea29ffc01edd0ac606b5}
+      \strng{authorfullhash}{212f4d64d44279104b9d929e461f4ac5}
+      \strng{authorfullhashraw}{212f4d64d44279104b9d929e461f4ac5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{4}
+      \field{title}{A view of the cloud computing}
+      \field{volume}{53}
+      \field{year}{2010}
+      \field{pages}{50\bibrangedash 58}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/1721654.1721672
+      \endverb
+    \endentry
+    \entry{buyya2009}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=029e03ba4e08a5605b31a31f86375741}{%
+           family={Buyya},
+           familyi={B\bibinitperiod},
+           given={Rajkumar},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c1291e6ecf0dbfe473a835854099336}{%
+           family={Yeo},
+           familyi={Y\bibinitperiod},
+           given={Chee\bibnamedelima Shin},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11593173de8f0ecb4f1c61df36d7c740}{%
+           family={Venugopal},
+           familyi={V\bibinitperiod},
+           given={Srikumar},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ce80a9c0a94f2aca1f4a2ca356a02f5}{%
+           family={Broberg},
+           familyi={B\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67cc0d4f860e166f2f7d44ae53c8808c}{%
+           family={Brandic},
+           familyi={B\bibinitperiod},
+           given={Ivona},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72ad1e8af9140101e7db77764a1b7c8a}
+      \strng{fullhash}{340bffd9ee767943455ff7faaa506dae}
+      \strng{fullhashraw}{340bffd9ee767943455ff7faaa506dae}
+      \strng{bibnamehash}{340bffd9ee767943455ff7faaa506dae}
+      \strng{authorbibnamehash}{340bffd9ee767943455ff7faaa506dae}
+      \strng{authornamehash}{72ad1e8af9140101e7db77764a1b7c8a}
+      \strng{authorfullhash}{340bffd9ee767943455ff7faaa506dae}
+      \strng{authorfullhashraw}{340bffd9ee767943455ff7faaa506dae}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Future Generation Computer Systems}
+      \field{number}{6}
+      \field{title}{Cloud computing and emerging IT platforms: Vision, hype, and reality for delivering computing as the 5th utility}
+      \field{volume}{25}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{599\bibrangedash 616}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.future.2008.12.001
+      \endverb
+    \endentry
+    \entry{gartner2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18bfab6309a4addeb7e1dae07d2a4b89}{%
+           family={Gartner},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gartner Research}%
+      }
+      \strng{namehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{fullhash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{fullhashraw}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{bibnamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authorbibnamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authornamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authorfullhash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authorfullhashraw}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Magic Quadrant for Strategic Cloud Platform Services}
+      \field{year}{2024}
+    \endentry
+    \entry{mell2011}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=eac098e5805fbc204d757a7083c69ac6}{%
+           family={Mell},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f32f3f75de51838401f618755c8a6620}{%
+           family={Grance},
+           familyi={G\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {National Institute of Standards}%
+        {Technology}%
+      }
+      \strng{namehash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{fullhash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{fullhashraw}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{bibnamehash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{authorbibnamehash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{authornamehash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{authorfullhash}{d1f558bbc290d0967925307c14bc2d83}
+      \strng{authorfullhashraw}{d1f558bbc290d0967925307c14bc2d83}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{Special Publication 800-145}
+      \field{title}{The NIST definition of cloud computing}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.6028/NIST.SP.800-145
+      \endverb
+    \endentry
+    \entry{statista2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62182ca58a739daa8ddd8a48b7b19abb}{%
+           family={Statista},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Statista Research Department}%
+      }
+      \strng{namehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{fullhash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{fullhashraw}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{bibnamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authorbibnamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authornamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authorfullhash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authorfullhashraw}{62182ca58a739daa8ddd8a48b7b19abb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global cloud infrastructure platform market share Q4 2024}
+      \field{year}{2025}
+    \endentry
+    \entry{subashini2011}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2f7ea3a134ea7111f9afb5ce8beb8125}{%
+           family={Subashini},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cb1f9a1b246f1119fa6ac64ab457b7c}{%
+           family={Kavitha},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{fullhash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{fullhashraw}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{bibnamehash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{authorbibnamehash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{authornamehash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{authorfullhash}{5eb5c0c3af57cef3630c87abddc6e559}
+      \strng{authorfullhashraw}{5eb5c0c3af57cef3630c87abddc6e559}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Network and Computer Applications}
+      \field{number}{1}
+      \field{title}{A survey on security issues in service delivery models of cloud computing}
+      \field{volume}{34}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.jnca.2010.07.006
+      \endverb
+    \endentry
+    \entry{varia2014}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3747060bdded9b36a9027418cfb08c32}{%
+           family={Varia},
+           familyi={V\bibinitperiod},
+           given={Jinesh},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Amazon Web Services Whitepapers}%
+      }
+      \strng{namehash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{fullhash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{fullhashraw}{3747060bdded9b36a9027418cfb08c32}
+      \strng{bibnamehash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{authorbibnamehash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{authornamehash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{authorfullhash}{3747060bdded9b36a9027418cfb08c32}
+      \strng{authorfullhashraw}{3747060bdded9b36a9027418cfb08c32}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Architecting for the cloud: AWS best practices}
+      \field{year}{2014}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
